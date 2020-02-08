@@ -149,6 +149,7 @@ The following is a non-comprehensive list of Julia GitHub groups grouped by doma
 
 ### Mathematics
 
+*   [JuliaApproximation](https://github.com/JuliaApproximation) - Function approximation
 *   [JuliaDiff](https://github.com/JuliaDiff/) – [Differentiation tools](http://www.juliadiff.org/)
 *   [JuliaDiffEq](https://github.com/JuliaDiffEq) – [Differential equation solving and analysis](https://juliadiffeq.github.io/) ([Gitter](https://gitter.im/JuliaDiffEq/Lobby))
 *   [JuliaGeometry](https://github.com/JuliaGeometry) – Computational Geometry
@@ -187,3 +188,5 @@ The following is a non-comprehensive list of Julia GitHub groups grouped by doma
 *   [JuliaPlots](https://github.com/JuliaPlots) – [Data visualization](https://juliaplots.github.io/)
 *   [JuliaGL](https://github.com/JuliaGL) – OpenGL API and ecosystem ([Gitter](https://gitter.im/JuliaGL/meta))
 *   [JuliaGraphics](https://github.com/JuliaGraphics) – Drawing, Colors, GUIs
+
+
